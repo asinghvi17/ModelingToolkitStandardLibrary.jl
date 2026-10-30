@@ -3,6 +3,10 @@
 ModelingToolkitStandardLibrary.jl is a standard library for the
 [ModelingToolkit](https://docs.sciml.ai/ModelingToolkit/stable/) acausal modeling system.
 
+JuliaHub offers commercial support for the ModelingToolkit ecosystem and develops
+[Dyad](https://juliahub.com/products/dyad), a modeling language whose models compile
+to ModelingToolkit.
+
 ## Installation
 
 To install ModelingToolkitStandardLibrary.jl, use the Julia package manager:
